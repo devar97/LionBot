@@ -126,21 +126,10 @@ else
     exit 1
   fi
   
-  chmod 777 devpoint.sh
-  
+
   
    echo -e "\033[38;5;208m"
-   echo -e "      ____  __  __    _    ____ _____ _____ _____    _    __  __ "
-   echo -e "     / ___||  \/  |  / \  |  _ \_   _|_   _| ____|  / \  |  \/  |"
-   echo -e "     \___ \| |\/| | / _ \ | |_) || |   | | |  _|   / _ \ | |\/| |"
-   echo -e "      ___) | |  | |/ ___ \|  _ < | |   | | | |___ / ___ \| |  | |"
-   echo -e "     |____/|_|  |_/_/   \_\_| \_\|_|___|_| |_____/_/   \_\_|  |_|"
-   echo -e "                                  |_____|                        "
-   echo -e "     > Channel : @Smart_team                        "
-   echo -e "     > Developer : @lua_3 - @jozef3                       "
-   echo -e "     > Bot ID : @Help_telp                      "
-   echo -e "     > Github : github.com/team-smart/smart_team     "
    echo -e "                                              \033[0;00m"
    echo -e "\e[36m"
-  ./tg/bin/telegram-cli -k ./tg/tg-server.pub -s ./bot/smartbot.lua -l 1 -E $@
+  ./tg/bin/telegram-cli -k ./tg/tg-server.pub -s ./bot/liontbot.lua -l 1 -E $@
 fi
