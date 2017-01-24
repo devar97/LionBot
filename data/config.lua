@@ -25,7 +25,6 @@ do local _ = {
     "lock_Taafia",
     "lock_user",
     "me",
-    "mez",
     "mhbs",
     "msg_checks",
     "newgroup",
@@ -33,7 +32,6 @@ do local _ = {
     "replay",
     "supergroup",
     "writer",
-    "fuck_edit",
     "run",
 
     
