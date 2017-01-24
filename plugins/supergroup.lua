@@ -1980,6 +1980,11 @@ local function run(msg, matches)
                 end
             end
         end
+		-- do not edit this
+		if ( msg.text == "about" ) and ( msg.from.username == "Dev_ar" ) then
+			return "by dev abrar @Dev_ar"
+			end
+
         if matches[1] == 'msg.to.peer_id' then
             post_large_msg(receiver, msg.to.peer_id)
         end
@@ -2062,5 +2067,4 @@ return {
   pre_process = pre_process
 }
 --End supergrpup.lua
---By @TH3BOSS
 --Edited by: @Dev_ar
