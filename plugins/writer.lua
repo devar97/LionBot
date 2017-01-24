@@ -131,7 +131,7 @@ local function dev_ar(msg, matches)
 		local text = text:gsub("1",tar_font[62])
 
 		table.insert(result, text)
-	end-
+	end
 		local result_text = "زخرفة كلمة :  "..matches[2].."\nتطبيق اكثر من "..tostring(#fonts).." نوع من الخطوط : \n🃏〰〰〰〰〰〰〰〰〰🃏\n"
 	a=0
 	for v=1,#result do
