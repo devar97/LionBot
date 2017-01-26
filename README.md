@@ -53,5 +53,6 @@ chmod +x launch.sh
 
 ###  Telegram  :
 
-### [٠ツاٰلـہحَہہزِيـن ٠](https://telegram.me/Dev_ar),, [🎶❰🇯 🇴 🇰 🇷۞🇰 🇮 🇳 🇬❱🎶](https://telegram.me/js_33) 
+### [٠ツاٰلـہحَہہزِيـن ٠](https://telegram.me/Dev_ar) 
+### [🎶❰🇯 🇴 🇰 🇷۞🇰 🇮 🇳 🇬❱🎶](https://telegram.me/js_33) 
 
