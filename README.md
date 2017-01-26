@@ -51,7 +51,7 @@ chmod +x launch.sh
 
 [GitHub](https://github.com/devar97) 
 
-###  Telegram  :
+###  المطورين  :
 
 ### [٠ツاٰلـہحَہہزِيـن ٠](https://telegram.me/Dev_ar) 
 ### [🎶❰🇯 🇴 🇰 🇷۞🇰 🇮 🇳 🇬❱🎶](https://telegram.me/js_33) 
