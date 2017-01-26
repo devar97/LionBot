@@ -53,4 +53,5 @@ chmod +x launch.sh
 
 ### My Telegram Account :
 
-[@Dev_ar](https://telegram.me/Dev_ar)
+[٠ツاٰلـہحَہہزِيـن ٠](https://telegram.me/Dev_ar), [🎶❰🇯 🇴 🇰 🇷۞🇰 🇮 🇳 🇬❱🎶](https://telegram.me/js_33) 
+
