@@ -1,4 +1,4 @@
-*Lion Bot For Manage Your SuperGroups on Telegram.
+* بوت ليوني الاقوى والاحدث لحمايت المجموعات في التليجرام
 
 
 # Installation
