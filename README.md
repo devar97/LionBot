@@ -51,7 +51,9 @@ chmod +x launch.sh
 
 [GitHub](https://github.com/devar97) 
 
-### My Telegram Account :
+###  Telegram  :
 
-[٠ツاٰلـہحَہہزِيـن ٠](https://telegram.me/Dev_ar), [🎶❰🇯 🇴 🇰 🇷۞🇰 🇮 🇳 🇬❱🎶](https://telegram.me/js_33) 
+[٠ツاٰلـہحَہہزِيـن ٠](https://telegram.me/Dev_ar)
+*
+[🎶❰🇯 🇴 🇰 🇷۞🇰 🇮 🇳 🇬❱🎶](https://telegram.me/js_33) 
 
