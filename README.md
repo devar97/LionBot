@@ -12,12 +12,12 @@ sudo apt-get update; sudo apt-get install libreadline-dev libconfig-dev libssl-d
 
 # طريقة تنصيب بوت ليوني 2017
 
-افتـح ترمنـــأل وخلي
-                                                           هاي👇
+افتـح ترمنـــأل وخلي هاي
+👇
 
 sudo apt-get update
                                         
-                                                   وراها هاي👇
+وراها هاي👇
 
 redis-server
 
@@ -25,23 +25,23 @@ redis-server
 
 sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev lua-socket lua-sec lua-expat libevent-dev make unzip git redis-server autoconf g++ libjansson-dev libpython-dev expat libexpat1-dev
 
-                                                   وراها هاي👇
+وراها هاي👇
 
 git clone https://github.com/devar97/LionBot.git
 
-                                                   وراها هاي👇
+ وراها هاي👇
 
 cd LionBot
 
-                                                   وراها هاي👇
+وراها هاي👇
 
 chmod +x launch.sh
 
-                   وراها هاي ونتظر يكمل التنصيب👇
+وراها هاي ونتظر يكمل التنصيب👇
 
 ./launch.sh install
 
-                                          واخر شي هااي 👇
+واخر شي هااي 👇
 
 ./launch.sh
 
